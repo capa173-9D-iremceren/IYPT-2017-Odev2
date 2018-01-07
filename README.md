@@ -35,7 +35,7 @@ Deney için gerekli şartlar göz önüne alındığında, deneyi yurtta yapmak 
 - İki kutu domino taşı (56 adet)
 - Bir adet kağıt ve kalem
 - iki adet telefon.(Telefonlardan bir tanesi yaptığımız deneyi kayıt altına almak, diğeri ise kronometre olarak kullanmak içindi.)
--iki adet cetvel.(Cetveller öncelikle domino taşları arasındaki mesafeyi ölçmek için gerekliydi. Aynı zamanda iki domino dalgasına da devirmek için uygulanan kuvvetin eşit büyüklükte olması gerekiyordu.Elimizde sarkaç vb. bir mataryel olmadığı için iki cetvel kullanarak altarnatif bir sarkaç modeli oluşturmaya çalıştık.)
+- İki adet cetvel.(Cetveller öncelikle domino taşları arasındaki mesafeyi ölçmek için gerekliydi. Aynı zamanda iki domino dalgasına da devirmek için uygulanan kuvvetin eşit büyüklükte olması gerekiyordu.Elimizde sarkaç vb. bir mataryel olmadığı için iki cetvel kullanarak altarnatif bir sarkaç modeli oluşturmaya çalıştık.)
 
 # 4.Deneyi yapanlar ve deney süresi :
 Deneyi biz yaptık ve fotoğraflaması için bir arkadaşımızdan yardım aldık.Deneyimiz 2 saat sürdü. Bunun nedeni domino taşlarını dizme ve cetvel ile sarkaç modeli oluşturma konusunda pek de başarılı olamamamızdı.
