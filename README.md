@@ -1,88 +1,54 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
+Sınıf | Öğrenci İsmi  | Numara
+-------|----------------|--------
+9-D   | Ceren Şen | 596
+9-D   | İrem Çetinkaya | 605
 
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
+#  (DOMINOES)
+Bu projede domino taşları bir çizgi boyunca eşit aralıklarla yatay bir yüzeye paralel olarak dizildiğinde ve ilk domino taşına belirli  bir kuvvet uygulandığında domino taşları dizinin sonuna kadar devam eden bir düşüş dalgası oluşturur.Bu düşüş dalgasının hızı domino taşlarının uzunluğu, yapıldığı madde gibi birçok farklı etkene bağlıdır.Bu etkenlerden birisi de domino taşları arasındaki mesafedir.    "Domino taşları arasındaki mesafe arttırıldığında bir domino taşının bir sonraki domino taşına düşmesi için geçen süre, aralıkların  uzunluğu azaltıldığında geçen süreden daha fazladır." açıklamasına bağlı olarak "Domino taşları arasındaki mesafe azaltıldıkça düşüş dalgasının hızı artacaktır." Hipotezi oluşturulur ve bu hipotezi baz alarak düşüş dalgasının ulaşabileceği maksimum hızı hesaplamak projenin esas amacıdır.
 
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
+Belirtilen hipotez doğrultusunda; domino taşlarının oluşturduğu seride domino taşları arasındaki mesafe sabit tutulup farklı deneylerde mesafe değiştirilecektir. Bu deneylerdeki düşüş dalgasının hızını analiz etmek ve matematiksel nedenini ispatlamak projenin yöntemidir.Bu yöntemin basamakları tamamlandığında proje sona ermiş olacak ve domino taşlarının oluşturduğu düşüş dalgasının ulaşabileceği maksimum hız hesaplanmış olacaktır. 
 
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
+Deneylerde mesafe haricindeki değişkenler sabit tutulacak ve hava direnci yok sayılacaktır.
 
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
 
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
-
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+ Domino iki ya da daha çok kişi arasında "pul", "kart", "domino" gibi adlar verilmiş 28 tane dikdörtgen, yassı taşla oynanan bir salon oyunudur.3. yüzyıl'da ilk olarak Çin’de oynanmaya başlanan dominonun Avrupa’ya gelişi 18. yüzyıla rastlar.  Ve domino taşlarını belirli aralıklarla dizip devirdiğimizde oluşan dalga büyük bir ahenk içerisindedir.Bu ödevi seçmemizin sebebi IYPT Projelerinin başlıklarını incelerken 'Domino'kelimesinin ilgimizi çekmesi ve 'Domino taşları ile nasıl bir deney,proje yapılabilir?'diye düşünmemizdi.Proje detaylarını okuduğumuzda bu projeyi yapmanın, bizi öğretirken eğlendireceğini düşündük.Projemizi kesin olarak öğretmenimize bildirmeden önce öğretmenimize 'Bu projeyi yapabilir miyiz?'diye danıştık. O da bu projenin yapılabilir,kolay ve eğlenceli olduğunu söyledi.Bİzde projemizi seçtikten sonra proje hakkında bir araştırma yaptık. Araştırmamız sonucunda bazı materyallere ulaştık ve projenin daha önce başkaları tarafından yapılmış olduğunu gördük. Bu dosyaları kendimize kaynak olarak seçtik.
+
+## Kaynakçalar  
+
+ 1.YOUNG SCIENTISTS JOURNAL:Investigating The Velocity Of A Dominoes Wave ( https://ysjournal.com/archive/issue-5-1/investigating-the-velocity-of-a-dominoes-wave/ )
+
+2. IB Physics:The Domino Effect ( https://youtu.be/EMp0rqKaKLM ) 
+
+
 # Materyal ve Yöntem (Experimental Setup)
+ 
+ Bu bölüm yaptığımız deneyin yöntemi ve materyallerinin tanıtımı ve özetidir.
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+# 1. Deneye başlamadan önce veri toplama:
+Deneye başlamadan önce kayanakçada belirtilen sayfaları bir daha inceledik ve yazdığımız özeti okuduk.Sonucunda basit bir deney planı oluşturduk.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+# 2. Deney ortamı :
+Deney için gerekli şartlar göz önüne alındığında, deneyi yurtta yapmak için en uygun ortam ve zaman gece yurdun sessiz olduğu bir zamanda giriş kapısının yanındaki masayı kullanmaktı.Çünkü masa geniş ve etrafı deneyi yapabilmemiz için uygundu. Masa üzerinde gerekli hazırlıkları yaptıktan sonra deneyimizi yapmaya başladık.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
+# 3.Deney malzemeleri:
+#* İki kutu domino taşı (56 adet)
+#* Bir adet kağıt ve kalem
+#* iki adet telefon.(Telefonlardan bir tanesi yaptığımız deneyi kayıt altına almak, diğeri ise kronometre olarak kullanmak içindi.'
+#* iki adet cetvel.(Cetveller öncelikle domino taşları arasındaki mesafeyi ölçmek için gerekliydi. Aynı zamanda iki domino dalgasına da devirmek için uygulanan kuvvetin eşit büyüklükte olması gerekiyordu.Elimizde sarkaç vb. bir mataryel olmadığı için iki cetvel kullanarak altarnatif bir sarkaç modeli oluşturmaya çalıştık.)
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
+# 4.Deneyi yapanlar ve deney süresi :
+Deneyi biz yaptık ve fotoğraflaması için bir arkadaşımızdan yardım aldık.Deneyimiz 2 saat sürdü. Bunun nedeni domino taşlarını dizme ve cetvel ile sarkaç modeli oluşturma konusunda pek de başarılı olamamamızdı.
 
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
+# Yöntem :
+Önce 15 tane domino taşını 2 cm aralıklar ile dizdik. Ve cetvel ile bir kuvvet uygulayarak düşüş dalgası yaratmaya çalıştık. Düşüş dalgasının başlangıç ve bitiş zamanı ölçüldüğünde 0,7s zaman geçtiğini gördük. Daha sonra aynı domino taşlarını 3 cm aralıklar ile dizdik ve cetveli aynı seviyeden bırakarak düşüş dalgası oluşturmaya çalıştık. Bu dalganın başlama ve bitiş zamanları arasında ise 0,8s bir zaman farkı olduğunu gördük.Ölçümlerimiz pek sağlıklı olmadığından deneyimiz tam anlamıyla başarıya ulaşamadı.
 
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
+Deneyimizde pek başarılı olamadık.Bunun nedenlerinden birisi kuvveti uygulamak için oluşturmaya çalıştığımız sarkaç modelinde başarısız olmamızdı.Bu deney bizim ilk deneyimiz olduğundan eksiklerimizi,planımızda değiştirilmesi gereken yerleri gördük. Bu deneyde daha dikkatli olmamız ve materyal eksikliğimizi tamamlamamız gerektiğini anladık.İkinci deneye kadar daha detaylı bir hata tahlili yapma ve bu hataların ortadan kalkmasını sağlama kararı aldık.
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
-Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
+ 
 
 
