@@ -34,14 +34,14 @@ Deney için gerekli şartlar göz önüne alındığında, deneyi yurtta yapmak 
 # 3.Deney malzemeleri:
 - İki kutu domino taşı (56 adet)
 - Bir adet kağıt ve kalem
-- iki adet telefon.(Telefonlardan bir tanesi yaptığımız deneyi kayıt altına almak, diğeri ise kronometre olarak kullanmak içindi.)
+- İki adet telefon.(Telefonlardan bir tanesi yaptığımız deneyi kayıt altına almak, diğeri ise kronometre olarak kullanmak içindi.)
 - İki adet cetvel.(Cetveller öncelikle domino taşları arasındaki mesafeyi ölçmek için gerekliydi. Aynı zamanda iki domino dalgasına da devirmek için uygulanan kuvvetin eşit büyüklükte olması gerekiyordu.Elimizde sarkaç vb. bir mataryel olmadığı için iki cetvel kullanarak altarnatif bir sarkaç modeli oluşturmaya çalıştık.)
 
 # 4.Deneyi yapanlar ve deney süresi :
 Deneyi biz yaptık ve fotoğraflaması için bir arkadaşımızdan yardım aldık.Deneyimiz 2 saat sürdü. Bunun nedeni domino taşlarını dizme ve cetvel ile sarkaç modeli oluşturma konusunda pek de başarılı olamamamızdı.
 
 # Yöntem :
-Önce 15 tane domino taşını 2 cm aralıklar ile dizdik. Ve cetvel ile bir kuvvet uygulayarak düşüş dalgası yaratmaya çalıştık. Düşüş dalgasının başlangıç ve bitiş zamanı ölçüldüğünde 0,7s zaman geçtiğini gördük. Daha sonra aynı domino taşlarını 3 cm aralıklar ile dizdik ve cetveli aynı seviyeden bırakarak düşüş dalgası oluşturmaya çalıştık. Bu dalganın başlama ve bitiş zamanları arasında ise 0,8s bir zaman farkı olduğunu gördük.Ölçümlerimiz pek sağlıklı olmadığından deneyimiz tam anlamıyla başarıya ulaşamadı.
+Önce 15 tane domino taşını 2 cm aralıklar ile dizdik. Ve cetvel ile bir kuvvet uygulayarak düşüş dalgası yaratmaya çalıştık. Bu konuda pek de başarılı olamadık çünkü cetvelle tam istediğimiz gibi deviremedik ,bunu birkaç defa denediğimizde ve bizce en hatasız devirme ile ölçümleri yaptığımız zaman: Düşüş dalgasının başlangıç ve bitiş zamanı ölçüldüğünde 0,7s zaman geçtiğini gördük. Daha sonra aynı domino taşlarını 3 cm aralıklar ile dizdik ve cetveli aynı seviyeden bırakarak düşüş dalgası oluşturmaya çalıştık. Bu dalganın başlama ve bitiş zamanları arasında ise 0,8s bir zaman farkı olduğunu gördük.Ölçümlerimiz pek sağlıklı olmadığından deneyimiz tam anlamıyla başarıya ulaşamadı.
 
 
 # Bulgular (Results)
